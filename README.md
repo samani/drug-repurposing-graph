@@ -1,6 +1,7 @@
 # Drug repurposing with graph embedding
 
-The Code of the Paper: 'Drug repurposing based on link prediction on heterogeneous graphs using graph embedding' - 12th International Conference on Information and Knowledge Technology (IKT 2021) 
+The Code of the Paper: 
+* R Samani, F Shahrokh and N Ghadiri, "Drug repurposing based on link prediction on heterogeneous graphs using graph embedding", 12Th International Conference on Information and Knowledge Technology (IKT 2021)
 
 Requirements
 * Pandas
