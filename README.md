@@ -15,4 +15,4 @@ The Hetio network data files (edges.sif, Gene.tsv, Compound.tsv) must be downloa
 
 ## Authors ##
 
-Thanks to [Rasoul Samani] | [Fahime Shahrokh] | [Nasser Ghadidri].
+Thanks to [Rasoul Samani] | [Fahime Shahrokh] | [Dr Nasser Ghadiri].
